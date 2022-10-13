@@ -2,7 +2,7 @@ package ec.edu.espol.workshops;
 
 public class CarInsurance {
 
-<<<<<<< HEAD
+
 	private int edad;
 	private char sexo;
 	private String estadoCivil;
@@ -45,6 +45,6 @@ public class CarInsurance {
 	
 	
 	
-=======
->>>>>>> branch 'master' of https://github.com/Betancourt1996/ISII-WORKSHOP2-BROKERWEB.git
+
+
 }
