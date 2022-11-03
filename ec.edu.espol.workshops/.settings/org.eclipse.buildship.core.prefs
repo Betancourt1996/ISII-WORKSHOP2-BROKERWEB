@@ -1,17 +1,10 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=branch 'master' of https\://github.com/Betancourt1996/ISII-WORKSHOP2-BROKERWEB.git
 arguments=
 auto.sync=false
 build.scans.enabled=false
-<<<<<<< HEAD
-connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(7.3))
-connection.project.dir=
-eclipse.preferences.version=1
-gradle.user.home=
-java.home=
-jvm.arguments=
-offline.mode=false
-override.workspace.settings=true
-=======
-connection.gradle.distribution=GRADLE_DISTRIBUTION(WRAPPER)
+connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(7.0))
 connection.project.dir=
 eclipse.preferences.version=1
 gradle.user.home=
@@ -19,6 +12,5 @@ java.home=
 jvm.arguments=
 offline.mode=false
 override.workspace.settings=false
->>>>>>> branch 'master' of https://github.com/Betancourt1996/ISII-WORKSHOP2-BROKERWEB.git
 show.console.view=false
 show.executions.view=false
