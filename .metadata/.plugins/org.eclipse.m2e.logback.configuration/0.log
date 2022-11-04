@@ -1,0 +1,21 @@
+2022-10-14 23:01:39,645 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-18 22:26:07,804 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-18 22:28:08,715 [ModalContext] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\braya\git\ISII-WORKSHOP2-BROKERWEB\.git]
+2022-10-18 22:49:38,905 [Worker-22: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\braya\git\ISII-WORKSHOP2-BROKERWEB\.git]
+2022-10-18 22:54:52,699 [ModalContext] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\braya\git\ISII-WORKSHOP2-BROKERWEB\.git]
+2022-10-27 17:21:06,744 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-27 17:24:48,128 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-27 17:28:05,578 [Worker-9: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\braya\git\ISII-WORKSHOP2-BROKERWEB\.git]
+2022-10-27 17:42:01,013 [Worker-13: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\braya\git\ISII-WORKSHOP2-BROKERWEB\.git]
+2022-10-27 18:00:54,131 [Worker-30: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for [RepositoryHandle:Repository[C:\Users\braya\git\ISII-WORKSHOP2-BROKERWEB\.git]]
+2022-10-27 18:01:30,125 [Framework stop - Equinox Container: da2cc1ec-52de-4c4a-a3c5-dfe2bac80da0] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\braya\git\ISII-WORKSHOP2-BROKERWEB\.git]
+2022-10-27 18:02:13,006 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-27 18:04:34,675 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-27 18:09:20,066 [Framework stop - Equinox Container: a6f85ba4-cdf5-41e2-afd2-6b5645b34a25] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\braya\git\ISII-WORKSHOP2-BROKERWEB\.git]
+2022-11-03 17:29:38,663 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-03 18:01:00,378 [Worker-18: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\braya\git\ISII-WORKSHOP2-BROKERWEB\.git]
+2022-11-03 18:02:17,608 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-03 18:14:05,357 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-03 20:47:35,945 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-03 20:53:10,451 [Worker-1: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\braya\git\ISII-WORKSHOP2-BROKERWEB\.git]
+2022-11-03 21:17:00,684 [Worker-1: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\braya\git\ISII-WORKSHOP2-BROKERWEB\.git]

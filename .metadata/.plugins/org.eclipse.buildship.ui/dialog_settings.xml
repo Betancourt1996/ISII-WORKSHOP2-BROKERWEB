@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item key="use_default_location" value="true"/>
+		<item key="gradle_distribution" value="GRADLE_DISTRIBUTION(VERSION(7.0))"/>
+		<item key="java_home" value="C:\Program Files\Java\jdk-16.0.2"/>
+		<item key="apply_working_sets" value="false"/>
+		<item key="project_location" value="C:\Users\braya\eclipse-workspace\ec.edu.espol.workshops"/>
+		<list key="jvm_arguments">
+		</list>
+		<list key="working_sets">
+		</list>
+	</section>
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item key="apply_working_sets" value="false"/>
+		<item key="project_location" value="C:\Users\braya\eclipse-workspace\aaa"/>
+		<item key="gradle_distribution" value="GRADLE_DISTRIBUTION(VERSION(7.0))"/>
+		<list key="working_sets">
+		</list>
+	</section>
+</section>
