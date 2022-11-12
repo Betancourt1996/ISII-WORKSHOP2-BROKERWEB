@@ -15,7 +15,18 @@ public class CarInsurance {
 	
 	public void calculoPrima(int edad, String sexo, String civil) {
 		int prima = 500;
-		
+		if(edad<=0) {
+			System.out.println("Exception,La edad debe ser mayor a 0");
+			return;
+		}
+		if(!(sexo=="h" || sexo=="m") ) {
+			System.out.println("Exception,el sexo debe ser los siguientes h,m");
+			return;
+		}
+		if(!(civil=="c" || civil=="s") ) {
+			System.out.println("Exception,el estado civil debe ser los siguientes c,s");
+			return;
+		}
 		if(sexo=="h" && civil=="s" && edad < 25) {
 			prima+=1500;
 		}
