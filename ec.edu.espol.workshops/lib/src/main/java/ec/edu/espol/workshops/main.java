@@ -7,21 +7,22 @@ public class main {
 		// TODO Auto-generated method stub
 		CarInsurance nuevo = new CarInsurance();
 		
-		System.out.println("Edad Test");
+		System.out.println("** Test **");
 		
-		nuevo.calculoPrima(1, "h", "c");
-		nuevo.calculoPrima(29, "h", "s");
-		nuevo.calculoPrima(-5, "m", "s");
+		nuevo.calculoPrima(18, "h", "c");
+		nuevo.calculoPrima(17, "h", "c");
+		nuevo.calculoPrima(19, "h", "c");
 		
-		System.out.println("Sexo Test");
+		nuevo.calculoPrima(50, "h", "c");
 		
-		nuevo.calculoPrima(29, "h", "s");
-		nuevo.calculoPrima(29, "x", "s");
+		nuevo.calculoPrima(99, "m", "c");
+		nuevo.calculoPrima(100, "h", "c");
+		nuevo.calculoPrima(101, "m", "c");
 		
-		System.out.println("Estado_Civil Test");
+		nuevo.calculoPrima(18, "m", "s");
+
 		
-		nuevo.calculoPrima(29, "h", "s");
-		nuevo.calculoPrima(29, "h", "y");
+
 	}
 
 }
