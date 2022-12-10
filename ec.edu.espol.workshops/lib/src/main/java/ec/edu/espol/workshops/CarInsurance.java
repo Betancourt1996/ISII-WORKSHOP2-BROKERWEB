@@ -30,7 +30,7 @@ public class CarInsurance {
 		if(sexo=="h" && civil=="s" && edad < 25) {
 			prima+=1500;
 		}
-		
+		 
 		if(sexo=="m" || civil=="c") {
 			prima-=200;
 		}
