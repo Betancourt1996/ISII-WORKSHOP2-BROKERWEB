@@ -63,7 +63,7 @@ public class CarInsurance {
 	}
 	
 	public int calcularPrevium() {
-		int prima = 600;
+		int prima = 600; 
 		
 		if(this.getSexo() == 'h' && this.getEstado_civil()=='s' && this.getEdad()< 25) {
 			prima+=1500;
