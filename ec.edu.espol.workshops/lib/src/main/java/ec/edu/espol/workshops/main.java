@@ -8,18 +8,18 @@ public class main {
 		CarInsurance nuevo = new CarInsurance();
 		
 		System.out.println("** Test **");
+
+
 		
-		nuevo.calculoPrima(18, "h", "c");
-		nuevo.calculoPrima(17, "h", "c");
-		nuevo.calculoPrima(19, "h", "c");
+		nuevo.calculoPrima(18, "m", "c");
+		nuevo.calculoPrima(24, "otro", "s");
+		nuevo.calculoPrima(30, "mujer", "viuda");
 		
-		nuevo.calculoPrima(50, "h", "c");
+		nuevo.calculoPrima(20, "h", "s");
+		nuevo.calculoPrima(31, "h", "c");
+		nuevo.calculoPrima(50, "m", "s");
 		
-		nuevo.calculoPrima(99, "m", "c");
-		nuevo.calculoPrima(100, "h", "c");
-		nuevo.calculoPrima(101, "m", "c");
-		
-		nuevo.calculoPrima(18, "m", "s");
+
 
 		
 
